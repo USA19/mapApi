@@ -1,2 +1,8 @@
-# mapApi
-This repository shows the basic implementation of TypeScript concepts using Google Map API. Basically this app shows location of office and a worker which are generated randomly using faker.js
+first install all the dependenciese by typing command
+npm install
+
+then hit
+
+parcel index.html
+
+to start the app
